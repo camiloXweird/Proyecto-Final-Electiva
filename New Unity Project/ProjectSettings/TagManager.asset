@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CuboBanana
+  - Banana
+  - Bread
+  - Burger
+  - Cheese
+  - Chicken
+  - ice_cream
+  - onion
+  - Pizza
+  - Meat
+  - Wine
   layers:
   - Default
   - TransparentFX
