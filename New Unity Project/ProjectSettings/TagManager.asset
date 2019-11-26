@@ -15,6 +15,27 @@ TagManager:
   - Pizza
   - Meat
   - Wine
+  - Banana2
+  - comida1
+  - CuboBanana2
+  - CuboBread
+  - CuboBread2
+  - CuboCheese2
+  - CuboCheese
+  - CuboChicken
+  - CuboChicken2
+  - CuboBurger2
+  - CuboBurger
+  - CuboIceCream
+  - CuboIceCream2
+  - CuboMeat2
+  - CuboMeat
+  - CuboOnion
+  - CuboOnion2
+  - CuboPizza2
+  - CuboPizza
+  - CuboWine
+  - CuboWine2
   layers:
   - Default
   - TransparentFX
